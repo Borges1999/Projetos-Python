@@ -1,0 +1,11 @@
+# Ignorar arquivos de dados pesados
+*.csv
+*.xlsx
+*.parquet
+*.sqlite
+
+# Ignorar pastas de ambiente virtual e cache
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.env
